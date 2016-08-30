@@ -1,0 +1,17 @@
+{
+  "name": "parmare",
+  "version": "1.0.0",
+  "description": "Run things in child processes.",
+  "main": "index.js",
+  "author": "Matthew Grill",
+  "license": "MIT",
+  "dependencies": {
+    "object-assign": "^4.1.0",
+    "uuid": "^2.0.2"
+  },
+  "keywords": [
+    "promises",
+    "process",
+    "child"
+  ]
+}
